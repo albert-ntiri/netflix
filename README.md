@@ -10,6 +10,7 @@ Overview
 5. Most and least common countries, genres, ratings, directors, and cast members.
 
 Deep Dive
+
 6. Length of cast by country.
 7. Proportion of shows vs movies by country.
 8. Range of directors in terms of number of countries.
@@ -18,6 +19,7 @@ Deep Dive
 11. How the content in different regions compares to one another.
 
 Natural Language Processing
+
 12. Most common words in descriptions overall and by genre.
 
 I split my analysis into the following notebooks:
