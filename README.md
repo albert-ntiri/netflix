@@ -1,7 +1,7 @@
 # Netflix Movies & TV Shows
 
 ## Description
-In this project, I analyzed a dataset that contains movies and TV shows that are available on Netflix.  The dataset, which was pulled from the Kaggle website, can be found here.  There are several questions I sought to answer with this dataset:
+In this project, I analyzed a dataset that contains movies and TV shows that are available on [Netflix](https://www.netflix.com/).  The dataset, which was pulled from the Kaggle website, can be found [here](https://www.kaggle.com/shivamb/netflix-shows).  There are several questions I sought to answer with this dataset:
 
 **Overview**
 1. Change in number of shows/movies available over time.
