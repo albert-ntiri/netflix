@@ -16,5 +16,5 @@ In this project, I analyzed a dataset that contains movies and TV shows that are
 
 I split my analysis into the following notebooks:
 - [Netflix_EDA](https://github.com/albert-ntiri/netflix2/blob/main/Netflix_EDA.ipynb): answers questions 1-5
-- Netflix_Deep_Dive: answers question 6-10 and 12
-- Netflix_Region_Comparison: answers question 11
+- [Netflix_Deep_Dive](https://github.com/albert-ntiri/netflix2/blob/main/Netflix_Deep_Dive.ipynb): answers questions 6-10 and 12
+- [Netflix_Region_Comparison](https://github.com/albert-ntiri/netflix2/blob/main/Netflix_Region_Comparison.ipynb): answers question 11
