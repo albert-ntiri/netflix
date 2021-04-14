@@ -31,6 +31,12 @@ I split my analysis into the following notebooks, all of which are written in Py
 - [Netflix_Region_Comparison](https://github.com/albert-ntiri/netflix2/blob/main/Netflix_Region_Comparison.ipynb): This notebook uses object-oriented programming to generate a set of metrics by region to answer question 11.
 
 
+## Process
+Here is the approach I took to complete this analysis:
+1. Loaded the CSV file into a pandas dataframe and cleaned it.  The dataset had some missing values in text columns that I filled with a text value of 'Unknown'.  Because 4 of the columns (listed_in, country, director, cast) could have 1 or more values in them, I split these cells into lists to calculate their lengths and used those lists to generate lists of unique values for each of these 4 columns.
+2. Used a combination of simple techniques, such as means and frequency tables, and more advanced ones, such as functions, summary tables, and object-oriented programming to tackle each question.
+
+
 ## Insights
 Here are some high-level insights from this analysis.  More details can be found in the appropriate notebooks.
 
