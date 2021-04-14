@@ -25,7 +25,7 @@ In this project, I analyzed a dataset that contains movies and TV shows that are
 
 
 ## Files
-I split my analysis into the following notebooks:
+I split my analysis into the following notebooks, all of which are written in Python:
 - [Netflix_EDA](https://github.com/albert-ntiri/netflix2/blob/main/Netflix_EDA.ipynb): This notebook contains the initial data clean up steps and answers questions 1-5.
 - [Netflix_Deep_Dive](https://github.com/albert-ntiri/netflix2/blob/main/Netflix_Deep_Dive.ipynb): This notebook answers the deep dive questions 6-10 and 12.
 - [Netflix_Region_Comparison](https://github.com/albert-ntiri/netflix2/blob/main/Netflix_Region_Comparison.ipynb): This notebook uses object-oriented programming to generate a set of metrics by region to answer question 11.
