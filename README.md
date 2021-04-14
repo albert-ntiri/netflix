@@ -23,6 +23,7 @@ In this project, I analyzed a dataset that contains movies and TV shows that are
 
 12. Most common words in descriptions overall and by genre.
 
+
 ## Files
 I split my analysis into the following notebooks:
 - [Netflix_EDA](https://github.com/albert-ntiri/netflix2/blob/main/Netflix_EDA.ipynb): This notebook contains the initial data clean up steps and answers questions 1-5.
