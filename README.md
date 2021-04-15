@@ -46,7 +46,7 @@ Here are some high-level insights from this analysis.  More details can be found
 4. About 82% of TV shows do not last more than 2 seasons.  Movie lengths resemble a normal distribution with the mean around 100 minutes.  However, there appears to be a separate smaller distribution of short-length films.
 5. Here are the most common values (genres: International Movies, Dramas, Comedies; countries: US, India, UK; directors: Jan Suter, Raul Campos, Marcus Raboy; cast members: Anupam Kher, Shah Rukh Khan, Om Puri; ratings: TV-MA, TV-14, TV-PG.
 6. The countries with the highest average cast size are Paraguay and Lithuania.
-7. Singapore stands out as having more TV shows than movies.
+7. Taiwan, South Korea, Japan, and Singapore stand out as having more TV shows than movies, which differs from the majority of Netflix content.
 8. Directors have produced work in as many as 31 countries.
 9. The genres with the shortest and longest movies are 'Movies' and 'Classic Movies', respectively.  The countries with the shortest and longest movies are Colombia and Morocco, respectively.
 10. 'Classic & Cult TV' has a much larger proportion of shows that lasted for more seasons.
