@@ -55,6 +55,6 @@ Here are some high-level insights from this analysis.  More details can be found
 
 Here are a few charts showing some of the key insights.
 
-   ![](charts/avg_movie_length_by_genre.png)
+![](charts/avg_movie_length_by_genre.png)
 ![](charts/tv_show_tenure_proportion_by_genre.png)
 ![](charts/distribution_by_type_region.png)
