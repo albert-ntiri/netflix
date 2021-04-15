@@ -51,5 +51,12 @@ Here are some high-level insights from this analysis.  More details can be found
 9. The genres with the shortest and longest movies are 'Movies' and 'Classic Movies', respectively.  The countries with the shortest and longest movies are Colombia and Morocco, respectively.
 10. 'Classic & Cult TV' has a much larger proportion of shows that lasted for more seasons.
 11. North America is the only region that does not have 'International Movies' as the top genre.  Africa has a larger proportion of movies than any other region, and of the TV shows it does have, none have lasted more than 2 seasons.  Asia & The Pacific has the longest movies.  North America and Europe have the biggest range of content in terms of the difference between the oldest and newest content based on when it was originally released.  Latin America and the Middle East have the smallest range.  The average cast sizes and average number of directors are relatively similar among the regions.  More of the North American content has only 1 genre.  More of the content in Europe has more than one country involved.
-12. There is a noticeable variation in the words most commonly appearing in descriptions for content in different genres.
-![](charts/scatterplot_yearsExperience_milesFromMetropolis.jpg)
+12. There is a noticeable variation in the words most commonly appearing in descriptions for content in different genres.  The visual for this can be viewed [here](https://github.com/albert-ntiri/netflix/blob/main/charts/top_words_by_genre.png).
+
+Here are a few charts showing some of the key insights.
+
+![](charts/avg_movie_length_by_genre.png)
+
+![](charts/tv_show_tenure_proportion_by_genre.png)
+
+![](charts/distribution_by_type_region.png)
